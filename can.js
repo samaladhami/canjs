@@ -9,6 +9,7 @@ var Controller = can.Control({
 
 var Controller2 = can.Control({
 
+
   init: function(elm , options){
 
     elm.html('from Contrller2')
